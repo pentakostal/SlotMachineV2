@@ -1,0 +1,10 @@
+{
+    "name": "pavel/slot-machin-v2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
